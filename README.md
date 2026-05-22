@@ -88,10 +88,7 @@ AI-powered handwritten character recognition system using deep learning and imag
 ---
 
 ## 📈 GitHub Stats
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaSathwik22&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSathwik22&layout=compact)
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishnaSathwik22&theme=github)
 ---
 
 ## 🤝🏻 Connect With Me
